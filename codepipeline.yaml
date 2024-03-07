@@ -7,7 +7,7 @@ Parameters:
 
   GitHubOwner:
     Type: String
-    Default: shrestha-ajay #replace with your github username
+    Default: munukuntlav #replace with your github username
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
@@ -22,7 +22,7 @@ Parameters:
 
   ApplicationStackName:
     Type: String
-    Default: codepipeline-github-application1
+    Default: codepipeline-github-application2
     AllowedPattern: "[A-Za-z0-9-]+"
 
 
